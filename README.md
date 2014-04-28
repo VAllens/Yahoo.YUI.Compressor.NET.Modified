@@ -22,17 +22,20 @@ Main Features
 * Multiple source files -> multiple destination files (so you're pro at this now?!)
 * Optional MSBuild Tasks, NAnt Tasks and MVC4 BundleTransform.
 
-`Referenced Version`
+Referenced Version
+==================
 
 Based on YUI Compressor version: 2.4.4 (last checked at 2011-01-17).
 
-`How close to the Java Port?`
+How close to the Java Port?
+==================
 
 Pretty damn close, now :) Same unit tests (which pass). 
 The only thing I haven't been able to do is get the exact same obfuscation because [the java code is using a hashtable instead of a sorted hashtable/dictionary](http://yuilibrary.com/projects/yuicompressor/ticket/2528081). It's identical besides that (and works the same). Just visually look different but is exactly the same file size, etc.
 
 
-`Video Tutorials`
+Video Tutorials
+==================
 
 [Using YUI Compressor .NET (Core)](http://www.youtube.com/watch?v=LzoYUsKikx0)
 
@@ -43,7 +46,8 @@ The only thing I haven't been able to do is get the exact same obfuscation becau
 [(Older video) Using YUI Compressor .NET 1.7 with MSBuild](http://www.youtube.com/watch?v=Cj8MHPCubuM)
 
 
-`Who's utilising this code/library?`
+Who's utilising this code/library?
+==================
 
 If you use this code in some project, please drop us a message so we can include it in this list :)
 
@@ -72,12 +76,14 @@ Phil Haack and his T4CSS : A T4 Template for .Less CSS With Compression
 [WebMarkupMin](https://webmarkupmin.codeplex.com/)
 
 
-`References`
+References
+==================
 
 YUI Compressor home page: [http://developer.yahoo.com/yui/compressor/](http://developer.yahoo.com/yui/compressor/)
 
 
-`Thank You's!`
+Thank You's!
+==================
 
 We couldn't have made this project without the support of the following software:
 
