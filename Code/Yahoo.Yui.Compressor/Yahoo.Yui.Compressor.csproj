@@ -10,7 +10,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Yahoo.Yui.Compressor</RootNamespace>
     <AssemblyName>Yahoo.Yui.Compressor.modified</AssemblyName>
-    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <SccProjectName>SAK</SccProjectName>
     <SccLocalPath>SAK</SccLocalPath>
@@ -72,8 +72,8 @@
     <AssemblyOriginatorKeyFile>..\..\Solution Item\Yahoo.Yui.Compressor.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="EcmaScript.NET.modified">
-      <HintPath>..\..\Solution Item\EcmaScript.NET.modified.dll</HintPath>
+    <Reference Include="EcmaScript.NET.modifed">
+      <HintPath>..\..\Solution Item\EcmaScript.NET.modifed.dll</HintPath>
     </Reference>
     <Reference Include="System" />
   </ItemGroup>
